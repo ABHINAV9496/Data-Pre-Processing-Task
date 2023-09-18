@@ -24,6 +24,6 @@ values with mean/median/mode)
 Convert categorical variables into numerical representations using techniques such as
 one-hot encoding, label encoding, making them suitable for analysis by machine
 learning algorithms.
-5 . Feature Scaling:
+5. Feature Scaling:
 After the process of encoding, perform the scaling of the features using standardscaler
 and minmaxscaler
